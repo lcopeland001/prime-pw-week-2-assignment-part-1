@@ -66,3 +66,15 @@ console.log(fullname);
 let luckyNumber="lucky number";
 
 console.log('My name is', fullname, 'and I think', luckyNumber, 'is a winner!');
+
+let adventurous=true;
+let food='pizza';
+let pets=2;
+const allowedPets=3;
+
+if(adventurous=true){
+    console.log('Adventures are great!');
+} 
+else{
+    console.log('How about we stay home?');
+}
