@@ -57,3 +57,8 @@
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
 
 
+let firstName='Latisha';
+let lastName='Copeland';
+fullname='Latisha Copeland';
+
+console.log(fullname);
