@@ -63,7 +63,7 @@ fullname='Latisha Copeland';
 
 console.log(fullname);
 
-let luckyNumber="6";
+let luckyNumber=6;
 
 console.log('My name is', fullname, 'and I think', luckyNumber, 'is a winner!');
 
@@ -78,3 +78,19 @@ if(adventurous=true){
 else{
     console.log('How about we stay home?');
 }
+
+if(luckyNumber===2, adventurous=true){
+    console.log('Roll the dice!');
+}
+
+if(pets < allowedPets){
+    console.log('I can have more pets!');
+} 
+
+if(pets === allowedPets){
+    console.log('I have enough pets');
+} 
+
+if(pets > allowedPets){
+    console.log('Oh no, I have too many pets!');
+} 
