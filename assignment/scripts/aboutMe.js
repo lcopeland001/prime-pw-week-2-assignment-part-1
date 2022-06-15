@@ -63,7 +63,7 @@ fullname='Latisha Copeland';
 
 console.log(fullname);
 
-let luckyNumber="lucky number";
+let luckyNumber="6";
 
 console.log('My name is', fullname, 'and I think', luckyNumber, 'is a winner!');
 
